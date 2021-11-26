@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MeuAtelie.Rpa": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
